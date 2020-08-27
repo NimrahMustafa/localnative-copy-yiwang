@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">LN</string>
-    <string name="sync">åæ­¥</string>
-    <string name="dialog_sync">åå¶ä»è®¾å¤åæ­¥?</string>
-    <string name="prev_button_text">ä¸é¡µ</string>
-    <string name="next_button_text">ä¸é¡µ</string>
-    <string name="search_hint">è¾å¥æç´¢</string>
-</resources>
